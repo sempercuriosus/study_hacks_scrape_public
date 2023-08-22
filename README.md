@@ -54,9 +54,9 @@ The application will go to the set url, in this case (https://www.calnewport.com
 
 <!-- Installation -->
 
-[Clone me HTTPS](https://github.com/sempercuriosus/study_hacks_scrape_public.git)
-[Clone me SSH](git@github.com:sempercuriosus/study_hacks_scrape_public.git) 
-Copy + Pasta (Paste) the Python file directly
+- [Clone me HTTPS](https://github.com/sempercuriosus/study_hacks_scrape_public.git)
+- [Clone me SSH](git@github.com:sempercuriosus/study_hacks_scrape_public.git) 
+- Copy + Pasta (Paste) the Python file directly
 
 ### Usage
 
