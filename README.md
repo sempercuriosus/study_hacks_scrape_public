@@ -54,7 +54,7 @@ The application will go to the set url, in this case https://www.calnewport.com/
 
 <!-- Installation -->
 
-- Clone me HTTPS
+- Clone
 - Use SSH
 - Copy + Pasta (Paste) the Python file directly
 
