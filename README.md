@@ -34,7 +34,7 @@ Python!
 
 <!-- Features -->
 
-The application will go to the set url, in this case (https://www.calnewport.com/blog) and returns all articles starting with the first page all the way to whatever he is up to these days.
+The application will go to the set url, in this case https://www.calnewport.com/blog and returns all articles starting with the first page all the way to whatever he is up to these days.
 
 ---
 
@@ -54,15 +54,15 @@ The application will go to the set url, in this case (https://www.calnewport.com
 
 <!-- Installation -->
 
-- [Clone me HTTPS](https://github.com/sempercuriosus/study_hacks_scrape_public.git)
-- [Clone me SSH](git@github.com:sempercuriosus/study_hacks_scrape_public.git) 
+- Clone me HTTPS
+- Use SSH
 - Copy + Pasta (Paste) the Python file directly
 
 ### Usage
 
 <!-- Usage -->
 
-#### behavior assumptions
+#### Behavior Assumptions
 - If there is no response, stop the program, I am not going to keep trying to get a response.
 - Keep iterating until no response is given, ie there are no more pages
 - If the file is already downloaded do not overwrite
