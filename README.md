@@ -67,4 +67,58 @@ Copy + Pasta (Paste) the Python file directly
 - Keep iterating until no response is given, ie there are no more pages
 - If the file is already downloaded do not overwrite
 
+#### Configurables
+
+<!-- Configurables -->
+There are  not any configurable options in this app. 
+
+### Running The App
+
+<!-- Running -->
+This is a command line application and can be run with a command like this: 
+
+`python3 study_hacks.py` `study_hacks.py` is a suggested name, but this will be whatever you save the file as. 
+
+---
+
+## Challenges <a id="challenges"></a>
+
+<!-- Challenges -->
+I would have loved to add this section when I wrote the app, but it was a long time ago and I do not remember most of what was hard.
+
+I do recall, looking over the code as I write this, my `get_article_details(url)` function being finicky drilling dowin into the tags finding the data I wanted.
+
+As well as actually formatting the output just the way I wanted it to be -- *Chef's Kiss. 
+
+---
+
+
+## Author Credit <a id="author_credit"></a>
+
+<!-- Author Credits -->
+Eric, Semper Curiosus
+
+---
+
+## Resources <a id="resources"></a>
+
+<!-- Resources -->
+
+[Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+
+---
+
+## Final Note <a id="final_note"></a>
+
+<!-- Final Note -->
+
+This is a topic that I would like to come back to and learn more about. When other means are not an option and you need some data just go for it, but just make sure you are aware of the implications. (That soundes a lot more serious than I mean it to be, just do not be a ding-dong about scraping someone's website.)
+
+Read this article on [Ethics of Web Scraping](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01)
+
+Something I would like to add either here or to a future scrape 
+- TRY the shelf or shelve module to store the highest page number for later. 
+- Update this to include more data, such as who I am and add a robots.txt to respect it. 
+
+---
 
